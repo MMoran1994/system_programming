@@ -1,4 +1,8 @@
 # Trabajo Práctico: Programación de sistemas
+
+A continuación se deja una copia de las secciones *Objetivo* e *Introducción* del archivo `enunciado.pdf`. Las mismas dan una amplia noción sobre lo buscado y desarrollado en este trabajo. Para más información acerca los ejercicios a desarrollar así también como las condiciones del trabajo leer este archivo. En el archivo `informe.pdf` se encuentra una explicación detallada de cada uno de los ejercicios, además de consideraciones de diseño e interpretaciones que tuvo el grupo con respecto a las consignas definidas.
+
+
 ## Objetivo
 
 Este trabajo práctico consiste en un conjunto de ejercicios en los que se aplican de forma gradual
@@ -66,4 +70,3 @@ en la IDT.
 − i386.h - funciones auxiliares para utilizar *assembly* desde C.
 − pic.cypic.h - funciones *pic_enable*,*pic_disable*,*pic_finish1* y *pic_reset*.
 ```
-Los ejercicios a desarrollar así también como las condiciones del trabajo se encuentran en el archivo `enunciado.pdf`. En el archivo `informe.pdf` se encuentra una explicación detallada de cada uno de los ejercicios, además de consideraciones de diseño e interpretaciones que tuvo el grupo con respecto a las consignas definidas.
